@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear_black_24dp.png",
+        "source": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable-hdpi\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done_black_24dp.png",
+        "source": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable-hdpi\\ic_done_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_change_history_black_24dp.png",
+        "source": "C:\\Users\\SIRIUS\\AndroidStudioProjects\\face-detection\\openCVSamplefacedetection\\src\\main\\res\\drawable-hdpi\\ic_change_history_black_24dp.png"
+    }
+]
